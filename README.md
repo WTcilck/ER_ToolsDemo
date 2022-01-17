@@ -22,7 +22,7 @@ pod 'ER_ToolsDemo'
 
 ## Author
 
-王庭, 870937975@qq.com
+click, 870937975@qq.com
 
 ## License
 
