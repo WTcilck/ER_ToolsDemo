@@ -9,6 +9,9 @@
 #import "ER_ViewController.h"
 
 @interface ER_ViewController ()
+//<UITableViewDelegate, UITableViewDataSource>
+
+@property (nonatomic, strong) UITableView *tableView;
 
 @end
 
@@ -18,6 +21,27 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+    
+    [self initData];
+    [self initView];
+}
+
+- (void)initData {
+    
+}
+
+- (void)initView {
+    self.view.backgroundColor = [UIColor whiteColor];
+    
+    self.tableView = [[UITableView alloc] initWithFrame:CGRectZero style:UITableViewStyleGrouped];
+//    self.tableView.delegate = self;
+//    self.tableView.dataSource = self;
+    self.tableView.backgroundColor = [UIColor whiteColor];
+    [self.view addSubview:self.tableView];
+    [self.tableView mas_makeConstraints:^(MASConstraintMaker *make) {
+        make.left.right.bottom.offset(0);
+        make.top.offset(TopMargin);
+    }];
 }
 
 - (void)didReceiveMemoryWarning

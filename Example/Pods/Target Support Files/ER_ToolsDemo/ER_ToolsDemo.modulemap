@@ -1,0 +1,6 @@
+framework module ER_ToolsDemo {
+  umbrella header "ER_ToolsDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
