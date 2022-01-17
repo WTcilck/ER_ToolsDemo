@@ -1,6 +1,6 @@
 # ER_ToolsDemo
 
-[![CI Status](https://img.shields.io/travis/王庭/ER_ToolsDemo.svg?style=flat)](https://travis-ci.org/王庭/ER_ToolsDemo)
+[![CI Status](https://img.shields.io/travis/click/ER_ToolsDemo.svg?style=flat)](https://travis-ci.org/click/ER_ToolsDemo)
 [![Version](https://img.shields.io/cocoapods/v/ER_ToolsDemo.svg?style=flat)](https://cocoapods.org/pods/ER_ToolsDemo)
 [![License](https://img.shields.io/cocoapods/l/ER_ToolsDemo.svg?style=flat)](https://cocoapods.org/pods/ER_ToolsDemo)
 [![Platform](https://img.shields.io/cocoapods/p/ER_ToolsDemo.svg?style=flat)](https://cocoapods.org/pods/ER_ToolsDemo)
@@ -22,7 +22,7 @@ pod 'ER_ToolsDemo'
 
 ## Author
 
-王庭, 870937975@qq.com
+click, 870937975@qq.com
 
 ## License
 
