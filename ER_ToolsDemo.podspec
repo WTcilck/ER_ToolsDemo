@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'ER_ToolsDemo'
-  s.version          = '0.1.0'
+  s.version          = '1.0.0'
   s.summary          = '封装一些常用的控件'
 
 # This description is used to generate tags and improve search results.
