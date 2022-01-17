@@ -4,6 +4,7 @@ platform :ios, '9.0'
 
 target 'ER_ToolsDemo_Example' do
   pod 'ER_ToolsDemo', :path => '../'
+  pod 'Masonry', '1.1.0'
 
   target 'ER_ToolsDemo_Tests' do
     inherit! :search_paths

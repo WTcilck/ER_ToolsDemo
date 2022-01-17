@@ -1,0 +1,23 @@
+PODS:
+  - ER_ToolsDemo (0.1.0)
+  - Masonry (1.1.0)
+
+DEPENDENCIES:
+  - ER_ToolsDemo (from `../`)
+  - Masonry (= 1.1.0)
+
+SPEC REPOS:
+  trunk:
+    - Masonry
+
+EXTERNAL SOURCES:
+  ER_ToolsDemo:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ER_ToolsDemo: e5e591cd0fdd6c828ea36ec6109c3170481be2bb
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+
+PODFILE CHECKSUM: 4266b654a2b5423f4da66c667d7dca3aa4f31fad
+
+COCOAPODS: 1.11.2

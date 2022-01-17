@@ -1,0 +1,22 @@
+{
+  "name": "ER_ToolsDemo",
+  "version": "0.1.0",
+  "summary": "A short description of ER_ToolsDemo.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/王庭/ER_ToolsDemo",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "王庭": "870937975@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/王庭/ER_ToolsDemo.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "ER_ToolsDemo/Classes/**/*"
+}

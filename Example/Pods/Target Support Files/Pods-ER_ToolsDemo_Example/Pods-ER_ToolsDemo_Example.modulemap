@@ -1,0 +1,6 @@
+framework module Pods_ER_ToolsDemo_Example {
+  umbrella header "Pods-ER_ToolsDemo_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
